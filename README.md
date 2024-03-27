@@ -8,10 +8,11 @@ Approach
 Before building the predictive models, extensive data preprocessing steps were undertaken, including handling missing values, feature scaling, and encoding categorical variables.
 
 2. Model Building
-a. Logistic Regression
+
+ Logistic Regression
 LR was chosen as one of the baseline models due to its simplicity and interpretability. We trained the LR model using the preprocessed dataset to predict the wine quality.
 
-b. Support Vector Machine
+Support Vector Machine
 SVM, a powerful classification algorithm, was selected for its ability to handle complex decision boundaries. We trained the SVM model to classify the wines into different quality categories.
 
 3. Model Evaluation
